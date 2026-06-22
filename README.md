@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -48,8 +49,13 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
