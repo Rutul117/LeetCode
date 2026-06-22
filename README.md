@@ -16,3 +16,19 @@ This repository contains my solutions to LeetCode problems along with detailed e
 - Track learning progress over time
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+<!---LeetCode Topics End-->
