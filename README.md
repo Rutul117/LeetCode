@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
+| [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -37,6 +38,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rutul117/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 ## Binary Search
 |  |
 | ------- |
