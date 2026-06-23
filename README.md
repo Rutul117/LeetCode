@@ -65,4 +65,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rutul117/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Rutul117/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
