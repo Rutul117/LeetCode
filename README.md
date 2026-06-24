@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rutul117/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rutul117/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rutul117/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
