@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rutul117/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +71,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0182-duplicate-emails](https://github.com/Rutul117/LeetCode/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/Rutul117/LeetCode/tree/master/0185-department-top-three-salaries) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
