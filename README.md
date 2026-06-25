@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rutul117/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -107,8 +108,13 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
