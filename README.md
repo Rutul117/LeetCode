@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
