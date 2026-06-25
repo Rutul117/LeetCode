@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rutul117/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
@@ -124,6 +126,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -141,4 +144,12 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
