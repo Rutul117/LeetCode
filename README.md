@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -50,6 +52,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -62,6 +65,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rutul117/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Rutul117/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -128,6 +132,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 ## Matrix
