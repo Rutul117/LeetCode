@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
