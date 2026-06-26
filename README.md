@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
@@ -62,6 +63,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rutul117/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
