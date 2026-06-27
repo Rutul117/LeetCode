@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rutul117/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rutul117/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rutul117/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rutul117/LeetCode/tree/master/0015-3sum) |
