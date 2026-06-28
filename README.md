@@ -93,6 +93,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rutul117/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
@@ -192,4 +193,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rutul117/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
