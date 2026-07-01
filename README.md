@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Rutul117/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rutul117/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rutul117/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Counting
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Prefix Sum
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Rutul117/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Rutul117/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rutul117/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
