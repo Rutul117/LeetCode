@@ -135,6 +135,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0185-department-top-three-salaries](https://github.com/Rutul117/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0627-swap-sex-of-employees](https://github.com/Rutul117/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1084-sales-analysis-iii](https://github.com/Rutul117/LeetCode/tree/master/1084-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/Rutul117/LeetCode/tree/master/1158-market-analysis-i) |
 ## Math
 |  |
 | ------- |
