@@ -142,6 +142,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1393-capital-gainloss](https://github.com/Rutul117/LeetCode/tree/master/1393-capital-gainloss) |
 | [3220-odd-and-even-transactions](https://github.com/Rutul117/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3374-first-letter-capitalization-ii](https://github.com/Rutul117/LeetCode/tree/master/3374-first-letter-capitalization-ii) |
+| [3421-find-students-who-improved](https://github.com/Rutul117/LeetCode/tree/master/3421-find-students-who-improved) |
 ## Math
 |  |
 | ------- |
