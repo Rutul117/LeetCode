@@ -117,6 +117,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rutul117/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Rutul117/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rutul117/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Backtracking
@@ -146,11 +147,13 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rutul117/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rutul117/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Rutul117/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rutul117/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
