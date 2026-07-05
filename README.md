@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Rutul117/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rutul117/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -50,6 +51,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -80,6 +82,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rutul117/LeetCode/tree/master/0904-fruit-into-baskets) |
