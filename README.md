@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rutul117/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
+| [1288-remove-covered-intervals](https://github.com/Rutul117/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/Rutul117/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -225,6 +226,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1288-remove-covered-intervals](https://github.com/Rutul117/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Matrix
 |  |
