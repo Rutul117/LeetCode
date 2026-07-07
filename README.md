@@ -178,6 +178,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0013-roman-to-integer](https://github.com/Rutul117/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rutul117/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
 | ------- |
