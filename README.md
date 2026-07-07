@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rutul117/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rutul117/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
@@ -115,6 +116,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rutul117/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rutul117/LeetCode/tree/master/3620-network-recovery-pathways) |
