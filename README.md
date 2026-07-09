@@ -101,6 +101,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0040-combination-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Rutul117/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0032-longest-valid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Rutul117/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -259,6 +261,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Rutul117/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
