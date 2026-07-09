@@ -95,6 +95,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0036-valid-sudoku](https://github.com/Rutul117/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rutul117/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
@@ -169,6 +170,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0022-generate-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rutul117/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
