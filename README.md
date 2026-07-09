@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rutul117/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rutul117/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Rutul117/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -202,6 +203,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0012-integer-to-roman](https://github.com/Rutul117/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rutul117/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rutul117/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Rutul117/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rutul117/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rutul117/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -345,4 +347,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rutul117/LeetCode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rutul117/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
