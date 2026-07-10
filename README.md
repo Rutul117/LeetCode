@@ -321,6 +321,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutul117/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -356,6 +357,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Depth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutul117/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bit Manipulation
 |  |
@@ -366,4 +368,12 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rutul117/LeetCode/tree/master/0043-multiply-strings) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
