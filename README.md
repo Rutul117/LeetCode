@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rutul117/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -159,6 +160,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0044-wildcard-matching](https://github.com/Rutul117/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
@@ -183,6 +185,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0037-sudoku-solver](https://github.com/Rutul117/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rutul117/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,6 +323,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Memoization
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Breadth-First Search
 |  |
@@ -370,6 +374,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rutul117/LeetCode/tree/master/0029-divide-two-integers) |
+| [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutul117/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
@@ -383,4 +388,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
