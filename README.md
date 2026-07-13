@@ -110,6 +110,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0047-permutations-ii](https://github.com/Rutul117/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Rutul117/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -197,6 +198,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0040-combination-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rutul117/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rutul117/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Rutul117/LeetCode/tree/master/0051-n-queens) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 ## Prefix Sum
 |  |
