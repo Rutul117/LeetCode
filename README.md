@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0054-spiral-matrix](https://github.com/Rutul117/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rutul117/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Rutul117/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
