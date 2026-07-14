@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0051-n-queens](https://github.com/Rutul117/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rutul117/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rutul117/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -174,6 +175,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0044-wildcard-matching](https://github.com/Rutul117/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rutul117/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -296,6 +298,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0011-container-with-most-water](https://github.com/Rutul117/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Rutul117/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutul117/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
