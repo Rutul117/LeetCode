@@ -365,6 +365,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
@@ -405,6 +406,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -425,6 +427,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -432,6 +435,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
