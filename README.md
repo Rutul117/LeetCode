@@ -114,6 +114,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0053-maximum-subarray](https://github.com/Rutul117/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rutul117/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Rutul117/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -310,6 +311,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0018-4sum](https://github.com/Rutul117/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Rutul117/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Rutul117/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
