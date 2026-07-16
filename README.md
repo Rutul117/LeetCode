@@ -267,6 +267,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0023-merge-k-sorted-lists](https://github.com/Rutul117/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rutul117/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rutul117/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Rutul117/LeetCode/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -296,6 +297,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0027-remove-element](https://github.com/Rutul117/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rutul117/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Rutul117/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
