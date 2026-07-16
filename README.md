@@ -182,6 +182,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rutul117/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
@@ -250,6 +251,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rutul117/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rutul117/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutul117/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -474,4 +476,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutul117/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rutul117/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rutul117/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
