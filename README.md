@@ -121,6 +121,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0056-merge-intervals](https://github.com/Rutul117/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rutul117/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Rutul117/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -187,6 +188,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0053-maximum-subarray](https://github.com/Rutul117/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
@@ -352,6 +354,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0048-rotate-image](https://github.com/Rutul117/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rutul117/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rutul117/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
