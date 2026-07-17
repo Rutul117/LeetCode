@@ -124,6 +124,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0059-spiral-matrix-ii](https://github.com/Rutul117/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Rutul117/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -262,6 +263,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0050-powx-n](https://github.com/Rutul117/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rutul117/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Rutul117/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rutul117/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
