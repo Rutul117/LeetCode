@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0058-length-of-last-word](https://github.com/Rutul117/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Rutul117/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Rutul117/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rutul117/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -465,6 +467,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0054-spiral-matrix](https://github.com/Rutul117/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rutul117/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rutul117/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rutul117/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
