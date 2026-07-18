@@ -164,6 +164,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rutul117/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rutul117/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rutul117/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -265,6 +266,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0060-permutation-sequence](https://github.com/Rutul117/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rutul117/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rutul117/LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rutul117/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
