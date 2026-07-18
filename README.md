@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0049-group-anagrams](https://github.com/Rutul117/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rutul117/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Rutul117/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -125,6 +126,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rutul117/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Rutul117/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
@@ -164,7 +166,6 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rutul117/LeetCode/tree/master/0035-search-insert-position) |
-| [0069-sqrtx](https://github.com/Rutul117/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rutul117/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -266,7 +267,6 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0060-permutation-sequence](https://github.com/Rutul117/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rutul117/LeetCode/tree/master/0066-plus-one) |
-| [0069-sqrtx](https://github.com/Rutul117/LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rutul117/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -461,6 +461,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0043-multiply-strings](https://github.com/Rutul117/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rutul117/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rutul117/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rutul117/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
