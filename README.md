@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0065-valid-number](https://github.com/Rutul117/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Rutul117/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Rutul117/LeetCode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -383,6 +384,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0020-valid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Rutul117/LeetCode/tree/master/0071-simplify-path) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
