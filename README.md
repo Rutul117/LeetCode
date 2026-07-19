@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0067-add-binary](https://github.com/Rutul117/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Rutul117/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Rutul117/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Rutul117/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -201,6 +202,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0063-unique-paths-ii](https://github.com/Rutul117/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rutul117/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Rutul117/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
