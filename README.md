@@ -143,6 +143,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rutul117/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rutul117/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rutul117/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
@@ -218,6 +219,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0064-minimum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rutul117/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rutul117/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
@@ -402,6 +404,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0073-set-matrix-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rutul117/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -414,6 +417,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rutul117/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rutul117/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -421,6 +425,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rutul117/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rutul117/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
