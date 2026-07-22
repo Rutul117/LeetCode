@@ -315,6 +315,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0025-reverse-nodes-in-k-group](https://github.com/Rutul117/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Rutul117/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rutul117/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rutul117/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
