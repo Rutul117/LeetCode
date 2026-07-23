@@ -436,6 +436,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0071-simplify-path](https://github.com/Rutul117/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rutul117/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rutul117/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -510,6 +511,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rutul117/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rutul117/LeetCode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -541,6 +543,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rutul117/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rutul117/LeetCode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -550,6 +553,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rutul117/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rutul117/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rutul117/LeetCode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
