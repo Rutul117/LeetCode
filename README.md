@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Rutul117/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Rutul117/LeetCode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Rutul117/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -266,6 +267,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Rutul117/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Rutul117/LeetCode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Rutul117/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 ## Prefix Sum
 |  |
