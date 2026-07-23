@@ -146,6 +146,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0084-largest-rectangle-in-histogram](https://github.com/Rutul117/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Rutul117/LeetCode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
@@ -262,6 +263,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0078-subsets](https://github.com/Rutul117/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Rutul117/LeetCode/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Rutul117/LeetCode/tree/master/0090-subsets-ii) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 ## Prefix Sum
 |  |
@@ -517,6 +519,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0067-add-binary](https://github.com/Rutul117/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rutul117/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Rutul117/LeetCode/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Rutul117/LeetCode/tree/master/0090-subsets-ii) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutul117/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutul117/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
