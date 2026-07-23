@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0072-edit-distance](https://github.com/Rutul117/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Rutul117/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Rutul117/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -225,6 +226,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0072-edit-distance](https://github.com/Rutul117/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Rutul117/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Rutul117/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
