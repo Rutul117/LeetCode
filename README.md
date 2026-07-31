@@ -506,6 +506,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rutul117/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
@@ -555,6 +556,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -602,6 +604,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rutul117/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -627,6 +630,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rutul117/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
