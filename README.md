@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0091-decode-ways](https://github.com/Rutul117/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Rutul117/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rutul117/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -249,6 +250,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0095-unique-binary-search-trees-ii](https://github.com/Rutul117/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rutul117/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rutul117/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
