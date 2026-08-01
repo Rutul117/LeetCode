@@ -166,6 +166,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,6 +249,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0095-unique-binary-search-trees-ii](https://github.com/Rutul117/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rutul117/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Rutul117/LeetCode/tree/master/0097-interleaving-string) |
+| [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -269,6 +271,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0044-wildcard-matching](https://github.com/Rutul117/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rutul117/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rutul117/LeetCode/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -331,6 +334,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0070-climbing-stairs](https://github.com/Rutul117/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Rutul117/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Rutul117/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rutul117/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -673,4 +677,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rutul117/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
