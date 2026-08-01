@@ -368,6 +368,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rutul117/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -517,6 +518,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
@@ -570,6 +572,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -620,6 +623,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -648,6 +652,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
