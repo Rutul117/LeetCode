@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rutul117/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rutul117/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0115-distinct-subsequences](https://github.com/Rutul117/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
@@ -528,6 +530,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
