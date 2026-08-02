@@ -175,6 +175,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
+| [0877-stone-game](https://github.com/Rutul117/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rutul117/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
@@ -256,6 +257,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
+| [0877-stone-game](https://github.com/Rutul117/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
@@ -341,6 +343,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
+| [0877-stone-game](https://github.com/Rutul117/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rutul117/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rutul117/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rutul117/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -695,4 +698,5 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rutul117/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
