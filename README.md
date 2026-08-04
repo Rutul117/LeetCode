@@ -271,6 +271,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rutul117/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rutul117/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rutul117/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
@@ -603,6 +604,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -654,6 +656,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -683,6 +686,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rutul117/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -733,4 +737,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
