@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
@@ -273,6 +274,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rutul117/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rutul117/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
@@ -319,6 +321,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0095-unique-binary-search-trees-ii](https://github.com/Rutul117/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Rutul117/LeetCode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 ## Prefix Sum
 |  |
