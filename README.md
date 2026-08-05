@@ -175,6 +175,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rutul117/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rutul117/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rutul117/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
@@ -491,6 +492,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0074-search-a-2d-matrix](https://github.com/Rutul117/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Rutul117/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rutul117/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -549,6 +551,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
@@ -561,6 +564,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rutul117/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutul117/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutul117/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -608,6 +612,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rutul117/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
