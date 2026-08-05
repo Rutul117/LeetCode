@@ -747,4 +747,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Rutul117/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
