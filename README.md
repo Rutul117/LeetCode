@@ -180,6 +180,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rutul117/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rutul117/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Rutul117/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
@@ -457,6 +458,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0045-jump-game-ii](https://github.com/Rutul117/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rutul117/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rutul117/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Rutul117/LeetCode/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
