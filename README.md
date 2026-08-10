@@ -186,6 +186,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Rutul117/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rutul117/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Rutul117/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rutul117/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -665,6 +666,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0078-subsets](https://github.com/Rutul117/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Rutul117/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Rutul117/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Rutul117/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rutul117/LeetCode/tree/master/0137-single-number-ii) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutul117/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
