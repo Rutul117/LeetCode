@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rutul117/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Rutul117/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rutul117/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
@@ -183,6 +185,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Rutul117/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rutul117/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
@@ -283,6 +286,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rutul117/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rutul117/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
@@ -560,6 +564,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rutul117/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Breadth-First Search
@@ -600,6 +605,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rutul117/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rutul117/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Graph Theory
 |  |
@@ -800,4 +806,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Rutul117/LeetCode/tree/master/1510-stone-game-iv) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
