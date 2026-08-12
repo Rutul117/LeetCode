@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0138-copy-list-with-random-pointer](https://github.com/Rutul117/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/Rutul117/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -433,6 +434,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rutul117/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rutul117/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rutul117/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Rutul117/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -470,6 +472,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0086-partition-list](https://github.com/Rutul117/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Rutul117/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rutul117/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Rutul117/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -829,4 +832,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rutul117/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
