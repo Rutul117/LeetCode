@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Rutul117/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rutul117/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Rutul117/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -441,6 +442,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0141-linked-list-cycle](https://github.com/Rutul117/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rutul117/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rutul117/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Rutul117/LeetCode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -859,4 +861,12 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rutul117/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rutul117/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rutul117/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
