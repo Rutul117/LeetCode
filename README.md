@@ -221,6 +221,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1331-rank-transform-of-an-array](https://github.com/Rutul117/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Rutul117/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rutul117/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rutul117/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -315,6 +316,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rutul117/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rutul117/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutul117/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -409,6 +411,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1140-stone-game-ii](https://github.com/Rutul117/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rutul117/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rutul117/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rutul117/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rutul117/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -827,6 +830,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1140-stone-game-ii](https://github.com/Rutul117/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rutul117/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
