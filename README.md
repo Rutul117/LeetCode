@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0132-palindrome-partitioning-ii](https://github.com/Rutul117/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Rutul117/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
@@ -505,6 +506,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0142-linked-list-cycle-ii](https://github.com/Rutul117/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rutul117/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rutul117/LeetCode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Rutul117/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
