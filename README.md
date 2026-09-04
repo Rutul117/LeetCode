@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0142-linked-list-cycle-ii](https://github.com/Rutul117/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rutul117/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Rutul117/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rutul117/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
@@ -498,6 +499,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0146-lru-cache](https://github.com/Rutul117/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Rutul117/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Rutul117/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rutul117/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rutul117/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
@@ -543,6 +545,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0143-reorder-list](https://github.com/Rutul117/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rutul117/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rutul117/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rutul117/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rutul117/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
