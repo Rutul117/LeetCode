@@ -252,6 +252,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rutul117/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rutul117/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rutul117/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2706-buy-two-chocolates](https://github.com/Rutul117/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rutul117/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rutul117/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -576,6 +577,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1927-sum-game](https://github.com/Rutul117/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rutul117/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rutul117/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/Rutul117/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rutul117/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rutul117/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rutul117/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -604,6 +606,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1288-remove-covered-intervals](https://github.com/Rutul117/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rutul117/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2706-buy-two-chocolates](https://github.com/Rutul117/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rutul117/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rutul117/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rutul117/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
