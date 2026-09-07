@@ -117,6 +117,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
+| [0940-distinct-subsequences-ii](https://github.com/Rutul117/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -352,6 +353,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rutul117/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [0877-stone-game](https://github.com/Rutul117/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Rutul117/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Rutul117/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutul117/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
