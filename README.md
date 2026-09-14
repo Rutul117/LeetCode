@@ -462,6 +462,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
+| [0836-rectangle-overlap](https://github.com/Rutul117/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rutul117/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rutul117/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
@@ -992,6 +993,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Rutul117/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/Rutul117/LeetCode/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
 | ------- |
