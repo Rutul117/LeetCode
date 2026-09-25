@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Rutul117/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Rutul117/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Rutul117/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0722-remove-comments](https://github.com/Rutul117/LeetCode/tree/master/0722-remove-comments) |
 | [0940-distinct-subsequences-ii](https://github.com/Rutul117/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rutul117/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rutul117/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Rutul117/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -427,6 +429,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
+| [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rutul117/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -639,6 +642,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Rutul117/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Rutul117/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rutul117/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rutul117/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -690,6 +694,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0155-min-stack](https://github.com/Rutul117/LeetCode/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rutul117/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -747,6 +752,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutul117/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutul117/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
