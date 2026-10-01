@@ -1,19 +1,8 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        hashmap ={
-            ')':'(',
-            ']':'[',
-            '}':'{'}
-        stk = []
+        while "()" in s or "[]" in s or "{}" in s:
+            s = s.replace("()", "")
+            s = s.replace("[]", "")
+            s = s.replace("{}", "")
 
-        for c in s:
-            if c not in hashmap:
-                stk.append(c)
-            else:
-                if not stk:
-                    return False
-                else:
-                    poppped = stk.pop()
-                    if poppped != hashmap[c]:
-                        return False
-        return not stk
+        return s == ""
