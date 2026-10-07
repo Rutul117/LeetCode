@@ -119,6 +119,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rutul117/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rutul117/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
@@ -440,6 +441,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0126-word-ladder-ii](https://github.com/Rutul117/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rutul117/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/Rutul117/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rutul117/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -770,6 +772,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0127-word-ladder](https://github.com/Rutul117/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rutul117/LeetCode/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/Rutul117/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/Rutul117/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Rutul117/LeetCode/tree/master/0994-rotting-oranges) |
