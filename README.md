@@ -269,6 +269,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rutul117/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Rutul117/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rutul117/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rutul117/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -354,6 +355,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0148-sort-list](https://github.com/Rutul117/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rutul117/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -403,6 +405,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rutul117/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Rutul117/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rutul117/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Rutul117/LeetCode/tree/master/1872-stone-game-viii) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
@@ -516,6 +519,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1406-stone-game-iii](https://github.com/Rutul117/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rutul117/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rutul117/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rutul117/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Rutul117/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rutul117/LeetCode/tree/master/1927-sum-game) |
@@ -780,6 +784,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0139-word-break](https://github.com/Rutul117/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rutul117/LeetCode/tree/master/0140-word-break-ii) |
 | [0638-shopping-offers](https://github.com/Rutul117/LeetCode/tree/master/0638-shopping-offers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rutul117/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Breadth-First Search
 |  |
@@ -814,6 +819,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rutul117/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rutul117/LeetCode/tree/master/0130-surrounded-regions) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutul117/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutul117/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rutul117/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -938,6 +944,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rutul117/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -972,6 +979,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0652-find-duplicate-subtrees](https://github.com/Rutul117/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Rutul117/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rutul117/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bitmask
 |  |
@@ -987,6 +995,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rutul117/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rutul117/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rutul117/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -1001,6 +1010,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rutul117/LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rutul117/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rutul117/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rutul117/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1122,4 +1132,8 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rutul117/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rutul117/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rutul117/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
