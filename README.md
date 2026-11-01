@@ -253,6 +253,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0169-majority-element](https://github.com/Rutul117/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rutul117/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rutul117/LeetCode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rutul117/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rutul117/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Rutul117/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
@@ -526,6 +527,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [0096-unique-binary-search-trees](https://github.com/Rutul117/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Rutul117/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rutul117/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rutul117/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rutul117/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutul117/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Rutul117/LeetCode/tree/master/0640-solve-the-equation) |
