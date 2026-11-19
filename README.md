@@ -301,6 +301,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rutul117/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rutul117/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rutul117/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rutul117/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Rutul117/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/Rutul117/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rutul117/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -713,6 +714,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rutul117/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rutul117/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rutul117/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rutul117/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Rutul117/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rutul117/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rutul117/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -752,6 +754,7 @@ This repository contains my solutions to LeetCode problems along with detailed e
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rutul117/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rutul117/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rutul117/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rutul117/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Rutul117/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/Rutul117/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rutul117/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
